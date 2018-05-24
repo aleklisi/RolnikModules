@@ -1,4 +1,4 @@
--module(db).
+-module(database).
 -author('AleksanderLisiecki').
 -include_lib("stdlib/include/qlc.hrl").
 
